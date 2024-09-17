@@ -1,0 +1,10 @@
+{
+    "answers": [
+      { "id": 1, "text": "Oui..heu non" },
+      { "id": 2, "text": "Non" },
+      { "id": 3, "text": "Peut-être pas" },
+      { "id": 4, "text": "Plus ou moins..." },
+      { "id": 5, "text": "Demande à Google" }
+    ]
+  }
+  
